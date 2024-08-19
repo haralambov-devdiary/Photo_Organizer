@@ -7,7 +7,6 @@ Photo Organizer е приложение, създадено за сортира�
 Алтернативно сортиране: Ако EXIF данни не са налични, програмата използва последната дата на модификация на файла като резервен вариант.
 Интуитивен интерфейс: Предлага лесен графичен потребителски интерфейс (GUI) за избор на папката, съдържаща вашите снимки, и за стартиране на процеса на сортиране.
 
-EN
 Photo Organizer is application designed to sort and organize your photo collection based on the date the photos were taken. This tool supports various image formats, including RAW formats from popular camera manufacturers.
 Features:
 EXIF Data Extraction: Automatically reads EXIF data from JPEG images to determine the date the photo was taken.
